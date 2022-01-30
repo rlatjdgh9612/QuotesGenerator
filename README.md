@@ -14,3 +14,9 @@
 - UIButton
 - UIView
 - AutoLayOut
+
+### 사용 언어
+- Swift
+
+### 사용 프로그램
+- Xcode 13.2.1
