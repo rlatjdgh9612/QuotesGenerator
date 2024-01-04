@@ -10,7 +10,7 @@
 ### QuotesGenerator Notion
 - [여기](https://www.notion.so/App-5fd5eb6ddecc4e2dbb967b3a0c1971de?pvs=4)를 클릭하시면 QuotesGenerator Notion 으로 이동할 수 있습니다. 
 
-### 시연 영상
+### 프로젝트 시연 영상
 - [여기](https://youtu.be/ZQRbCzOt1Z0)를 클릭하시면 QuotesGenerator App 시연 영상을 보실수 있습니다.
 
 ### 이런 기능이 있습니다
